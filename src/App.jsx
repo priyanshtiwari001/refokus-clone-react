@@ -1,9 +1,9 @@
-import Cards from "./components/Cards";
+import Cards from "./components/cards/Cards";
 import Footer from "./components/Footer";
-import Marquees from "./components/Marquees";
+import Marquees from "./components/marquees/Marquees";
 import Navbar from "./components/Navbar";
-import Products from "./components/Products";
-import Stripes from "./components/Stripes";
+import Products from "./components/products/Products";
+import Stripes from "./components/stripes/Stripes";
 import Work from "./components/Work";
 import LocomotiveScroll from "locomotive-scroll";
 

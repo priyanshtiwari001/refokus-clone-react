@@ -1,4 +1,4 @@
-import Button from "./Button";
+import Button from "../Button";
 
 const Product = ({ product, mover, i }) => {
   return (
